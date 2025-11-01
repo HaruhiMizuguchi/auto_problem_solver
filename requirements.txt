@@ -4,3 +4,4 @@ pyautogui
 pytesseract
 python-dotenv
 mss
+google-generativeai>=0.8.0
