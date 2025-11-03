@@ -1,0 +1,841 @@
+{
+  "schemaVersion": 1,
+  "projectPath": "C:/python_program/auto_problem_solver/auto_problem_solver",
+  "projectRootName": "auto_problem_solver",
+  "graphRenderingMode": "normal",
+  "linkDisplayMode": "all",
+  "graphStats": {
+    "totalNodes": 8,
+    "folders": 2,
+    "files": 6,
+    "images": 0,
+    "videos": 0,
+    "audio": 0,
+    "code": 4,
+    "text": 1,
+    "html": 0,
+    "yaml": 0,
+    "json": 0,
+    "other": 1,
+    "totalLines": 0,
+    "maxLines": 0
+  },
+  "directoryTree": {
+    "name": "auto_problem_solver",
+    "type": "directory",
+    "path": "auto_problem_solver",
+    "children": [
+      {
+        "name": ".kamui",
+        "type": "directory",
+        "path": ".kamui",
+        "children": [],
+        "hasMore": true
+      },
+      {
+        "name": ".env.example",
+        "type": "file",
+        "path": ".env.example"
+      },
+      {
+        "name": "main.py",
+        "type": "file",
+        "path": "main.py"
+      },
+      {
+        "name": "mcp_server.py",
+        "type": "file",
+        "path": "mcp_server.py"
+      },
+      {
+        "name": "ocr_solver.py",
+        "type": "file",
+        "path": "ocr_solver.py"
+      },
+      {
+        "name": "requirements.txt",
+        "type": "file",
+        "path": "requirements.txt"
+      },
+      {
+        "name": "ui_capture.py",
+        "type": "file",
+        "path": "ui_capture.py"
+      }
+    ]
+  },
+  "graphData": {
+    "nodes": [
+      {
+        "id": "auto_problem_solver",
+        "name": "auto_problem_solver",
+        "path": "auto_problem_solver",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": null,
+        "childFileCount": 6,
+        "x": -0.44356562615941336,
+        "y": -2.483542944122787,
+        "z": -1.6573982855988953,
+        "vx": -0.024826609574493095,
+        "vy": -0.19243317831913173,
+        "vz": -0.14065360516723424
+      },
+      {
+        "id": "auto_problem_solver/.kamui",
+        "name": ".kamui",
+        "path": "auto_problem_solver/.kamui",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "auto_problem_solver",
+        "childFileCount": 0,
+        "x": 33.554624968397015,
+        "y": -16.50578595022275,
+        "z": -0.5350171472399654,
+        "vx": -0.03451452927843933,
+        "vy": -0.21622360240412122,
+        "vz": -0.14033017180955185
+      },
+      {
+        "id": "auto_problem_solver/.env.example",
+        "name": ".env.example",
+        "path": "auto_problem_solver/.env.example",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#57606f",
+        "baseColor": "#57606f",
+        "originalColor": "#57606f",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "auto_problem_solver",
+        "childFileCount": 0,
+        "x": -6.3501116362866545,
+        "y": 29.043640771306503,
+        "z": 16.414514194522642,
+        "vx": -0.027043723553444116,
+        "vy": -0.19049773888466243,
+        "vz": -0.1417343450941036
+      },
+      {
+        "id": "auto_problem_solver/main.py",
+        "name": "main.py",
+        "path": "auto_problem_solver/main.py",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#57606f",
+        "baseColor": "#57606f",
+        "originalColor": "#57606f",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "auto_problem_solver",
+        "childFileCount": 0,
+        "x": 20.713624981124568,
+        "y": 22.892708856761462,
+        "z": -18.256236276188545,
+        "vx": -0.009658298137077847,
+        "vy": -0.20800337325181048,
+        "vz": -0.13518219238762
+      },
+      {
+        "id": "auto_problem_solver/mcp_server.py",
+        "name": "mcp_server.py",
+        "path": "auto_problem_solver/mcp_server.py",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#57606f",
+        "baseColor": "#57606f",
+        "originalColor": "#57606f",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "auto_problem_solver",
+        "childFileCount": 0,
+        "x": -25.696626385271973,
+        "y": 15.31826172793243,
+        "z": -21.493215776550624,
+        "vx": -0.017076065621303232,
+        "vy": -0.1937660859721375,
+        "vz": -0.15484808265541108
+      },
+      {
+        "id": "auto_problem_solver/ocr_solver.py",
+        "name": "ocr_solver.py",
+        "path": "auto_problem_solver/ocr_solver.py",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#57606f",
+        "baseColor": "#57606f",
+        "originalColor": "#57606f",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "auto_problem_solver",
+        "childFileCount": 0,
+        "x": -28.594847530616377,
+        "y": -16.395800422032483,
+        "z": 16.69140001181369,
+        "vx": -0.03754834756308399,
+        "vy": -0.1909891482181698,
+        "vz": -0.14207533077934492
+      },
+      {
+        "id": "auto_problem_solver/requirements.txt",
+        "name": "requirements.txt",
+        "path": "auto_problem_solver/requirements.txt",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#95a5a6",
+        "baseColor": "#95a5a6",
+        "originalColor": "#95a5a6",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "auto_problem_solver",
+        "childFileCount": 0,
+        "x": 11.052477726256017,
+        "y": -3.735999293179677,
+        "z": 33.281276344481675,
+        "vx": -0.024837643467392662,
+        "vy": -0.21179583325716958,
+        "vz": -0.14202629805174308
+      },
+      {
+        "id": "auto_problem_solver/ui_capture.py",
+        "name": "ui_capture.py",
+        "path": "auto_problem_solver/ui_capture.py",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#57606f",
+        "baseColor": "#57606f",
+        "originalColor": "#57606f",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "auto_problem_solver",
+        "childFileCount": 0,
+        "x": -4.450110538421792,
+        "y": -29.738199002971008,
+        "z": -25.58694275979582,
+        "vx": -0.039028823783379,
+        "vy": -0.20100729622110797,
+        "vz": -0.1447696686108266
+      }
+    ],
+    "links": [
+      {
+        "source": "auto_problem_solver",
+        "target": "auto_problem_solver/.kamui",
+        "type": "tree"
+      },
+      {
+        "source": "auto_problem_solver",
+        "target": "auto_problem_solver/.env.example",
+        "type": "tree"
+      },
+      {
+        "source": "auto_problem_solver",
+        "target": "auto_problem_solver/main.py",
+        "type": "tree"
+      },
+      {
+        "source": "auto_problem_solver",
+        "target": "auto_problem_solver/mcp_server.py",
+        "type": "tree"
+      },
+      {
+        "source": "auto_problem_solver",
+        "target": "auto_problem_solver/ocr_solver.py",
+        "type": "tree"
+      },
+      {
+        "source": "auto_problem_solver",
+        "target": "auto_problem_solver/requirements.txt",
+        "type": "tree"
+      },
+      {
+        "source": "auto_problem_solver",
+        "target": "auto_problem_solver/ui_capture.py",
+        "type": "tree"
+      }
+    ]
+  },
+  "trackedFiles": [
+    ".env.example",
+    "main.py",
+    "mcp_server.py",
+    "ocr_solver.py",
+    "requirements.txt",
+    "ui_capture.py"
+  ],
+  "uiState": {
+    "expandedDirs": [
+      "auto_problem_solver",
+      "auto_problem_solver/auto_problem_solver",
+      "auto_problem_solver/.kamui",
+      "auto_problem_solver/auto_problem_solver/.kamui",
+      "auto_problem_solver/.kamui/prompt",
+      "auto_problem_solver/auto_problem_solver/.kamui/prompt"
+    ],
+    "selectedPath": null
+  },
+  "directoryTreeMeta": {
+    "mode": "full",
+    "maxDepthApplied": 10,
+    "maxEntriesPerDirectory": 0,
+    "isPartial": false
+  },
+  "gitHistoryMeta": {
+    "mode": "full",
+    "isPartial": false,
+    "branchPulse": null
+  },
+  "gitHistoryState": {
+    "selectedTimelineIndex": 1,
+    "activeCommitHash": null,
+    "entries": [
+      {
+        "type": "live",
+        "label": "現在のコードベース",
+        "files": [],
+        "branch": "main",
+        "targetCommitHash": "87836a737fba3207e25cc049ed26bf6513cde08c",
+        "worktreePath": "C:/python_program/auto_problem_solver/auto_problem_solver",
+        "timestamp": 1762176167729,
+        "lane": 0,
+        "branchLabel": "main",
+        "branchTags": [
+          "main"
+        ],
+        "isDefaultWorktree": true,
+        "branchColor": "#4f85e8",
+        "index": 0
+      },
+      {
+        "type": "unstaged",
+        "label": "未ステージ (3)",
+        "files": [
+          ".kamui/model-versions-cache.json",
+          ".kamui/prompt/merge-prompt.txt",
+          ".kamui/system-graph-state.json"
+        ],
+        "branch": "main",
+        "targetCommitHash": "87836a737fba3207e25cc049ed26bf6513cde08c",
+        "worktreePath": "C:/python_program/auto_problem_solver/auto_problem_solver",
+        "timestamp": 1762176167729,
+        "sortOrder": 0,
+        "lane": 0,
+        "branchColor": "#4f85e8",
+        "index": 1
+      },
+      {
+        "type": "commit",
+        "label": "3ファイルの復元",
+        "commit": {
+          "hash": "87836a737fba3207e25cc049ed26bf6513cde08c",
+          "subject": "3ファイルの復元",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762085647,
+          "parents": [
+            "ec7c63fd5258c4162c623e2ad7e03860a0875a8e"
+          ],
+          "parent": "ec7c63fd5258c4162c623e2ad7e03860a0875a8e",
+          "refs": "HEAD -> main, origin/main",
+          "branches": [
+            "HEAD -> main",
+            "origin/main",
+            "main"
+          ]
+        },
+        "commitHash": "87836a737fba3207e25cc049ed26bf6513cde08c",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "ec7c63fd5258c4162c623e2ad7e03860a0875a8e",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "main"
+        ],
+        "worktrees": [
+          {
+            "path": "C:/python_program/auto_problem_solver/auto_problem_solver",
+            "head": "87836a737fba3207e25cc049ed26bf6513cde08c",
+            "branch": "main",
+            "isMerged": false,
+            "mergeCommitHash": null,
+            "status": {
+              "staged": [],
+              "unstaged": [],
+              "untracked": [
+                {
+                  "path": ".kamui/model-versions-cache.json",
+                  "status": "untracked",
+                  "rawPath": ".kamui/model-versions-cache.json",
+                  "timestamp": 1762176161163
+                },
+                {
+                  "path": ".kamui/prompt/merge-prompt.txt",
+                  "status": "untracked",
+                  "rawPath": ".kamui/prompt/merge-prompt.txt",
+                  "timestamp": 1762176161163
+                },
+                {
+                  "path": ".kamui/system-graph-state.json",
+                  "status": "untracked",
+                  "rawPath": ".kamui/system-graph-state.json",
+                  "timestamp": 1762176161163
+                }
+              ],
+              "capturedAt": 1762176161163
+            },
+            "normalizedPath": "C:/python_program/auto_problem_solver/auto_problem_solver",
+            "lane": 0
+          }
+        ],
+        "index": 2
+      },
+      {
+        "type": "commit",
+        "label": "Merge pull request #5 from HaruhiMizuguchi/revert-2-fix/rest…",
+        "commit": {
+          "hash": "ec7c63fd5258c4162c623e2ad7e03860a0875a8e",
+          "subject": "Merge pull request #5 from HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762003669,
+          "parents": [
+            "9cbedd9e39a5b969de60c4ed2862a0fb206951c6",
+            "bda8a8421f8307abafbc7673704c0b4a13807a9b"
+          ],
+          "parent": "9cbedd9e39a5b969de60c4ed2862a0fb206951c6",
+          "refs": "",
+          "branches": [
+            "main",
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp"
+          ]
+        },
+        "commitHash": "ec7c63fd5258c4162c623e2ad7e03860a0875a8e",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "9cbedd9e39a5b969de60c4ed2862a0fb206951c6",
+            "lane": 0
+          },
+          {
+            "hash": "bda8a8421f8307abafbc7673704c0b4a13807a9b",
+            "lane": 1
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp"
+        ],
+        "index": 3
+      },
+      {
+        "type": "commit",
+        "label": "Revert \"fix: restore UI runner and MCP server files\"",
+        "commit": {
+          "hash": "bda8a8421f8307abafbc7673704c0b4a13807a9b",
+          "subject": "Revert \"fix: restore UI runner and MCP server files\"",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762003557,
+          "parents": [
+            "9cbedd9e39a5b969de60c4ed2862a0fb206951c6"
+          ],
+          "parent": "9cbedd9e39a5b969de60c4ed2862a0fb206951c6",
+          "refs": "origin/revert-2-fix/restore-ui-and-mcp",
+          "branches": [
+            "origin/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "main"
+          ]
+        },
+        "commitHash": "bda8a8421f8307abafbc7673704c0b4a13807a9b",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "9cbedd9e39a5b969de60c4ed2862a0fb206951c6",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "revert-2-fix/restore-ui-and-mcp"
+        ],
+        "index": 4
+      },
+      {
+        "type": "commit",
+        "label": "Merge pull request #4 from HaruhiMizuguchi/revert-3-fix/rest…",
+        "commit": {
+          "hash": "9cbedd9e39a5b969de60c4ed2862a0fb206951c6",
+          "subject": "Merge pull request #4 from HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762003271,
+          "parents": [
+            "8a8eab318317838c5ac764ebb12523bb7ca8d887",
+            "f79dae14a5bfa934465f4c1dee825128da274273"
+          ],
+          "parent": "8a8eab318317838c5ac764ebb12523bb7ca8d887",
+          "refs": "",
+          "branches": [
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "main",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good"
+          ]
+        },
+        "commitHash": "9cbedd9e39a5b969de60c4ed2862a0fb206951c6",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "8a8eab318317838c5ac764ebb12523bb7ca8d887",
+            "lane": 0
+          },
+          {
+            "hash": "f79dae14a5bfa934465f4c1dee825128da274273",
+            "lane": 2
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good"
+        ],
+        "index": 5
+      },
+      {
+        "type": "commit",
+        "label": "Revert \"revert: restore repository to pre-PR2 state + keep U…",
+        "commit": {
+          "hash": "f79dae14a5bfa934465f4c1dee825128da274273",
+          "subject": "Revert \"revert: restore repository to pre-PR2 state + keep UI runner/MCP\"",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762003259,
+          "parents": [
+            "8a8eab318317838c5ac764ebb12523bb7ca8d887"
+          ],
+          "parent": "8a8eab318317838c5ac764ebb12523bb7ca8d887",
+          "refs": "origin/revert-3-fix/restore-everything-from-good",
+          "branches": [
+            "origin/revert-3-fix/restore-everything-from-good",
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "main"
+          ]
+        },
+        "commitHash": "f79dae14a5bfa934465f4c1dee825128da274273",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "8a8eab318317838c5ac764ebb12523bb7ca8d887",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "revert-3-fix/restore-everything-from-good"
+        ],
+        "index": 6
+      },
+      {
+        "type": "commit",
+        "label": "Merge pull request #3 from HaruhiMizuguchi/fix/restore-every…",
+        "commit": {
+          "hash": "8a8eab318317838c5ac764ebb12523bb7ca8d887",
+          "subject": "Merge pull request #3 from HaruhiMizuguchi/fix/restore-everything-from-good",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762002853,
+          "parents": [
+            "fdbb442c43389e0448e70ecebe62fd0948e62bfc",
+            "24adf4583b89b2833c352e400462ab38f196355b"
+          ],
+          "parent": "fdbb442c43389e0448e70ecebe62fd0948e62bfc",
+          "refs": "",
+          "branches": [
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "main",
+            "HaruhiMizuguchi/fix/restore-everything-from-good"
+          ]
+        },
+        "commitHash": "8a8eab318317838c5ac764ebb12523bb7ca8d887",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "fdbb442c43389e0448e70ecebe62fd0948e62bfc",
+            "lane": 0
+          },
+          {
+            "hash": "24adf4583b89b2833c352e400462ab38f196355b",
+            "lane": 3
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "HaruhiMizuguchi/fix/restore-everything-from-good"
+        ],
+        "index": 7
+      },
+      {
+        "type": "commit",
+        "label": "rebuild: add UI runner & MCP server on top of pre-PR2 state",
+        "commit": {
+          "hash": "24adf4583b89b2833c352e400462ab38f196355b",
+          "subject": "rebuild: add UI runner & MCP server on top of pre-PR2 state",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762002771,
+          "parents": [
+            "5fa8b3aab7af6fbb32efde8a2962a703a23727d9"
+          ],
+          "parent": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+          "refs": "origin/fix/restore-everything-from-good",
+          "branches": [
+            "origin/fix/restore-everything-from-good",
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-everything-from-good",
+            "main"
+          ]
+        },
+        "commitHash": "24adf4583b89b2833c352e400462ab38f196355b",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+            "lane": 3
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "fix/restore-everything-from-good"
+        ],
+        "index": 8
+      },
+      {
+        "type": "commit",
+        "label": "Merge pull request #2 from HaruhiMizuguchi/fix/restore-ui-an…",
+        "commit": {
+          "hash": "fdbb442c43389e0448e70ecebe62fd0948e62bfc",
+          "subject": "Merge pull request #2 from HaruhiMizuguchi/fix/restore-ui-and-mcp",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762002600,
+          "parents": [
+            "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+            "bc9783c0b8bd99b59680cbb7bf88e6ed1a4380b9"
+          ],
+          "parent": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+          "refs": "",
+          "branches": [
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-everything-from-good",
+            "main",
+            "HaruhiMizuguchi/fix/restore-ui-and-mcp"
+          ]
+        },
+        "commitHash": "fdbb442c43389e0448e70ecebe62fd0948e62bfc",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+            "lane": 3
+          },
+          {
+            "hash": "bc9783c0b8bd99b59680cbb7bf88e6ed1a4380b9",
+            "lane": 4
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "HaruhiMizuguchi/fix/restore-ui-and-mcp"
+        ],
+        "index": 9
+      },
+      {
+        "type": "commit",
+        "label": "fix: restore main.py, mcp_server.py, ui_capture.py (removed …",
+        "commit": {
+          "hash": "bc9783c0b8bd99b59680cbb7bf88e6ed1a4380b9",
+          "subject": "fix: restore main.py, mcp_server.py, ui_capture.py (removed by previous merge)",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1762000351,
+          "parents": [
+            "5fa8b3aab7af6fbb32efde8a2962a703a23727d9"
+          ],
+          "parent": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+          "refs": "origin/fix/restore-ui-and-mcp",
+          "branches": [
+            "origin/fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-ui-and-mcp",
+            "main"
+          ]
+        },
+        "commitHash": "bc9783c0b8bd99b59680cbb7bf88e6ed1a4380b9",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+            "lane": 3
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "fix/restore-ui-and-mcp"
+        ],
+        "index": 10
+      },
+      {
+        "type": "commit",
+        "label": "Merge pull request #1 from HaruhiMizuguchi/feat/gemini-api-s…",
+        "commit": {
+          "hash": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+          "subject": "Merge pull request #1 from HaruhiMizuguchi/feat/gemini-api-support",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1761999931,
+          "parents": [
+            "c13717a913f62da6a6553a4936c7bc52a6163563",
+            "09f03b97e4ed619a622813f7867ed999433377e2"
+          ],
+          "parent": "c13717a913f62da6a6553a4936c7bc52a6163563",
+          "refs": "",
+          "branches": [
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-ui-and-mcp",
+            "main",
+            "HaruhiMizuguchi/feat/gemini-api-support"
+          ]
+        },
+        "commitHash": "5fa8b3aab7af6fbb32efde8a2962a703a23727d9",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "c13717a913f62da6a6553a4936c7bc52a6163563",
+            "lane": 3
+          },
+          {
+            "hash": "09f03b97e4ed619a622813f7867ed999433377e2",
+            "lane": 5
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "HaruhiMizuguchi/feat/gemini-api-support"
+        ],
+        "index": 11
+      },
+      {
+        "type": "commit",
+        "label": "feat: add Gemini API support (switchable via LLM_PROVIDER) +…",
+        "commit": {
+          "hash": "09f03b97e4ed619a622813f7867ed999433377e2",
+          "subject": "feat: add Gemini API support (switchable via LLM_PROVIDER) + env/requirements",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1761999855,
+          "parents": [
+            "c13717a913f62da6a6553a4936c7bc52a6163563"
+          ],
+          "parent": "c13717a913f62da6a6553a4936c7bc52a6163563",
+          "refs": "origin/feat/gemini-api-support",
+          "branches": [
+            "origin/feat/gemini-api-support",
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/feat/gemini-api-support",
+            "main"
+          ]
+        },
+        "commitHash": "09f03b97e4ed619a622813f7867ed999433377e2",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "c13717a913f62da6a6553a4936c7bc52a6163563",
+            "lane": 3
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "feat/gemini-api-support"
+        ],
+        "index": 12
+      },
+      {
+        "type": "commit",
+        "label": "feat:initial commit",
+        "commit": {
+          "hash": "c13717a913f62da6a6553a4936c7bc52a6163563",
+          "subject": "feat:initial commit",
+          "author": "HaruhiMizuguchi",
+          "timestamp": 1761997876,
+          "parents": [],
+          "parent": null,
+          "refs": "",
+          "branches": [
+            "HaruhiMizuguchi/revert-2-fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/revert-3-fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-everything-from-good",
+            "HaruhiMizuguchi/fix/restore-ui-and-mcp",
+            "HaruhiMizuguchi/feat/gemini-api-support",
+            "main"
+          ]
+        },
+        "commitHash": "c13717a913f62da6a6553a4936c7bc52a6163563",
+        "lane": 0,
+        "parentLinks": [],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [],
+        "index": 13
+      },
+      {
+        "type": "empty",
+        "label": "初期状態 (初回コミット以前)",
+        "files": [],
+        "marker": "pre-history",
+        "index": 14
+      }
+    ]
+  },
+  "projectRoot": "C:/python_program/auto_problem_solver/auto_problem_solver",
+  "savedAt": 1762176185172
+}
